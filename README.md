@@ -3,7 +3,7 @@ Romhack for Road Rash 64
 ROAD RASH 64 CARNAGE
 Version 0.29
 
-A fan-made enhancement for Road Rash 64, featuring nine new cheat codes:
+A fan made enhancement for Road Rash 64, featuring nine new cheat codes:
 
 Big Head Mode, 8x Damage, Giant Peds, Crazy Peds, Super Punch (100x damage), Tiny Bikes,
 Unlock Everything (combines all original bike, track and mode unlock codes), Crazy Traffic, and Moon Gravity.
